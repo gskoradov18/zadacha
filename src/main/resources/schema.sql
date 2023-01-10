@@ -6,3 +6,7 @@ create table theRock(
 );
 
 INSERT INTO theRock(userName, email, description) Values ('Anton','hekimqn@gmail.com','Obicham da digam tejko kato skalata');
+
+INSERT INTO theRock(userName, email, description) Values ('Petar','petkanov@gmail.com','Ypollo');
+
+INSERT INTO theRock(userName, email, description) Values ('Ivan','Ivanov@gmail.com','Ivan e gei');
